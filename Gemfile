@@ -28,6 +28,13 @@ gem 'coffee-rails', '~> 4.0.0'
 # Use faker for dev data creation
 gem 'faker'
 
+# Use devise for authentication
+gem 'devise'
+
+# Use figaro for handling sensitive data
+gem 'figaro'
+
+
 # See https://github.com/sstephenson/execjs#readme for more supported runtimes
 # gem 'therubyracer', platforms: :ruby
 
